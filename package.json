@@ -1,0 +1,22 @@
+{
+  "name": "nodeshell",
+  "version": "1.0.0",
+  "description": "nodeshell lab",
+  "main": "bash.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/K-minutti/nodeshell.git"
+  },
+  "author": "Kevin M",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/K-minutti/nodeshell/issues"
+  },
+  "homepage": "https://github.com/K-minutti/nodeshell#readme",
+  "dependencies": {
+    "request": "^2.88.2"
+  }
+}
